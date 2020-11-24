@@ -3,5 +3,19 @@ initial_creation_type: ocr
 source_metadata:
   id: bdr:W3CN4866
   title: མངོན་རྟོགས་རྒྱན་གྱི་སྤྱི་དོན་དང་འབྲུ་འགྲེལ།
-  volume: ''
+  volume:
+    29d0a0f1dd0e48d3833cf2eb80d4ea8a:
+      image_group_id: I3CN4868
+      title: Volume 1 of shes rab kyi pha rol tu phyin pa mngon par rtogs pa'i rgyan
+        gyi spyi don bdud rtsi'i nying khu dang 'bru 'grel yum don gsal ba'i sgron
+        me/
+      volume_number: 1
+      total_pages: 428
   author: ''
+ebook_metadata:
+  title: མངོན་རྟོགས་རྒྱན་གྱི་སྤྱི་དོན་དང་འབྲུ་འགྲེལ།
+  author: ''
+  sku: P007886
+  cover: cover.jpg
+  layers:
+  - pagination
