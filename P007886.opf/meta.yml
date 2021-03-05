@@ -1,9 +1,10 @@
-id: opecha:P007886
+id: P007886
 initial_creation_type: ocr
 source_metadata:
   id: bdr:W3CN4866
   title: མངོན་རྟོགས་རྒྱན་གྱི་སྤྱི་དོན་དང་འབྲུ་འགྲེལ།
-  volume:
+  author: ''
+  volumes:
     29d0a0f1dd0e48d3833cf2eb80d4ea8a:
       image_group_id: I3CN4868
       title: Volume 1 of shes rab kyi pha rol tu phyin pa mngon par rtogs pa'i rgyan
@@ -11,7 +12,7 @@ source_metadata:
         me/
       volume_number: 1
       total_pages: 428
-  author: ''
+      base_file: v001.txt
 ebook_metadata:
   title: མངོན་རྟོགས་རྒྱན་གྱི་སྤྱི་དོན་དང་འབྲུ་འགྲེལ།
   author: ''
