@@ -1,0 +1,129 @@
+id: 6bb539af1c81454b804137f52034081b
+annotation_type: Language
+revision: '00001'
+annotations:
+  4d7d690e9a7c4098ba89d960af1048b7:
+    span:
+      start: 39
+      end: 170
+    language: en
+  aba63b4267e842ce88e6b566a8c781d5:
+    span:
+      start: 366
+      end: 736
+    language: en
+  e2024c5160cd49aba73a89cd2be6aea0:
+    span:
+      start: 1028
+      end: 1065
+    language: en
+  2776d59e25214258abb24c6b447f1bda:
+    span:
+      start: 1283
+      end: 1326
+    language: en
+  99edba70506c40bb92206f69cee2b6ee:
+    span:
+      start: 1651
+      end: 1690
+    language: en
+  f8ea66fd78674dfab16e98742e27888e:
+    span:
+      start: 2029
+      end: 2064
+    language: en
+  bafe406c58784465a1a91094966526cb:
+    span:
+      start: 2730
+      end: 2781
+    language: en
+  47e096a5d5bb41aca0dfd578035170c2:
+    span:
+      start: 2830
+      end: 2887
+    language: en
+  933a53d5a7004e45baff6d0a0613001a:
+    span:
+      start: 3671
+      end: 3706
+    language: en
+  95eaa22d6e2046fc94a9cfb13c1df3e3:
+    span:
+      start: 4076
+      end: 4105
+    language: en
+  54e1b9d273f848968021c8f9a723fb12:
+    span:
+      start: 4319
+      end: 4345
+    language: en
+  be1af9670ea24082af106c3e6b943935:
+    span:
+      start: 5290
+      end: 5327
+    language: en
+  15a0bbd4e26f4d39a51b5f82656939cc:
+    span:
+      start: 5973
+      end: 6026
+    language: en
+  b8c53f902482411fa035d42aa80e873d:
+    span:
+      start: 6372
+      end: 6404
+    language: en
+  d41f5a0c282f4862b0a019d55fb8eb22:
+    span:
+      start: 6578
+      end: 6611
+    language: en
+  86a942866b3343beabc0f3a7a80327d2:
+    span:
+      start: 7344
+      end: 7384
+    language: en
+  c91862edb36849be9685b00981d5fff2:
+    span:
+      start: 7665
+      end: 7718
+    language: en
+  31d5ba2d77d94c598b373edbfff2007a:
+    span:
+      start: 199999
+      end: 200020
+    language: en
+  383a4af3676b4bb585f6299ab6ff4d66:
+    span:
+      start: 200301
+      end: 200327
+    language: en
+  68edf2c9b11d43668da2d253d1bcd20c:
+    span:
+      start: 200399
+      end: 200428
+    language: en
+  5924eb8462a64d06b2a4b9ccab3dda05:
+    span:
+      start: 201325
+      end: 201423
+    language: en
+  91314f8557c340f2afd72b944c602ee2:
+    span:
+      start: 201452
+      end: 201490
+    language: en
+  a32c2a41d79a4e39a2240c1f8a476d65:
+    span:
+      start: 201562
+      end: 201598
+    language: en
+  5605fd1383f8465394728c3e7ebb03c0:
+    span:
+      start: 492095
+      end: 492120
+    language: en
+  a3c087fe8eaa41088ad1013e27ae6feb:
+    span:
+      start: 510959
+      end: 511010
+    language: en
